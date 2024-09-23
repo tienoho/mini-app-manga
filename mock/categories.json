@@ -1,0 +1,22 @@
+[
+  {
+    "id": "coffee",
+    "name": "Danh sách",
+    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-matcha.svg"
+  },
+  {
+    "id": "matcha",
+    "name": "Theo dõi",
+    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-matcha.svg"
+  },
+  {
+    "id": "food",
+    "name": "Lịch sử",
+    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-food.svg"
+  },
+  {
+    "id": "milktea",
+    "name": "Xếp hạng",
+    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-milktea.svg"
+  }
+]
